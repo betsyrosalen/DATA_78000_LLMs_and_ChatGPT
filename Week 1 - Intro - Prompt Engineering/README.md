@@ -16,5 +16,10 @@ I expect the output of this prompt to be pretty bad, a far-fetched a silly plot 
 
 1. Please rewrite the screenplay and this time make the episode 40 minutes long and add more details.  Try to make the dialog more realistic, sophisticated and intelligent and don't give away the nefarious plan too quickly.  Add some suspense and keep the audience guessing about who the villains are and how the doctor is going to stop them.
 2. Please rewrite the screenplay again but this time add a lot more dialog and make sure their is a resolution to the problem at the end.  The Doctor and Rose should discover the aliens' plan and find a clever way to stop them.
+3. try rewriting the screenplay one more time in the same style as the following text ###
 
-As expected the output was pretty bad.  The dialog was a little odd and the plot was not only obvious but they gave it away in the first few mintues.  It also was not nearly the length I asked for.  It was kind of entertaining anyway to read it and use your imagination to fill in the details.  Clarifying prompts didn't do much to improve upon the original.  Full text is here:  <add link >
+	[The Tyler's flat]
+	
+	(Earth, United Kingdom, South London. An alarm clock goes off at 7:30. A young blonde woman gets up, dressed and kisses her mother goodbye. Her mother, who is also...  (See [TheDoctorAndRose.md](TheDoctorAndRose.md) for full text).
+
+As expected the output was pretty bad.  The dialog was odd, juvenile and predictable and the plot was not only obvious but they gave it away in the first few mintues.  It also was not nearly the length I asked for with no character development or detail.  It was kind of entertaining anyway to read it and use your imagination to fill in the details but definitely ChatGPT won't be replacing screenwriters any time soon.  Clarifying prompts didn't do much to improve upon the original. In fact, adding a portion of an actual screenplay as an example made it worse because it basically just summarized (plagarized) the text I gave it instead of writing something new in the same style.  Full text of the chat is here: [TheDoctorAndRose.md](TheDoctorAndRose.md)
